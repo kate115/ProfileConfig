@@ -1,0 +1,5 @@
+- 👋 Hi, I’m kate115!
+- 👀 I’m interested in Coding and music!
+- 🌱 I’m currently learning Javascript.
+- 💞️ I don't really collaborate with anyone.
+- 📫 I live in Redmond.
