@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on a page named, and about Rabbits!
 - 🌱 I’m currently learning Javascript in the Microsoft course.
 - 👯 I’m looking for people to collaborate on my Rabbit page.
-- 💬 Ask me about HTML, I'm good at it!
+- 💬 Ask me about HTML, I am good at it!
 - 📫 You can reach me by email: miloveumelody@gmail.com
 - 😄 Pronouns: She/Her/They/Their
-- ⚡ Fun fact: I'm a great writer!
+- ⚡ Fun fact: I am a great writer!
 
 ### Introduction
 
-Hi friend! My name is kate115, but I'm not telling you my real name. I’m interested in many things, including coding, games, reading, writing, music, and many more! I’m currently learning Javascript in the Microsoft course. I collaborate with my dad.
+Hi friend! My name is kate115, sorry, but I am not telling you my real name. I’m interested in many things, including coding, games, reading, writing, music, and many more! I’m currently learning Javascript in the Microsoft course. I collaborate with my dad.
 
 
 ### Projects
