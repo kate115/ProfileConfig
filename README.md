@@ -3,7 +3,7 @@
 ### Here are some facts about me!
 - 🔭 I’m currently working on a page named, and about Rabbits!
 - 🌱 I’m currently learning Javascript in the Microsoft course.
-- 👯 I’m looking for people to collaborate on my Rabbit page.
+- 👯 I’m looking for people to collaborate on my Super Pal page.
 - 💬 Ask me about HTML, I am good at it!
 - 📫 You can reach me by email: miloveumelody@gmail.com
 - 😄 Pronouns: She/Her/They/Their
@@ -20,3 +20,11 @@ Hi friend! My name is kate115, and sorry, but I am not telling you my real name.
 - The Microsoft coding course
 - Khan Academy
 - My Super Pal company website
+
+### My Hobbies
+
+- Writing
+- Reading
+- Coding
+- Playing
+- Rollerblading
