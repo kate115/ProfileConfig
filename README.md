@@ -6,8 +6,8 @@
 - 👯 I’m looking for people to collaborate on my Super Pal page.
 - 💬 Ask me about HTML, I am good at it!
 - 📫 You can reach me by email: miloveumelody@gmail.com
-- 😄 Pronouns: She/Her/They/Their
-- ⚡ Fun fact: I am a great writer! I'm working on a story named Slug and Leaf!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a great writer!
 
 ### Introduction
 
